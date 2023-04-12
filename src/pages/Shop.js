@@ -68,7 +68,7 @@ export default function Shop() {
     }
 
     return <>
-        <Jumbotron title="Hello World" subTitle="Welcome to React E-Commerce"/>
+        <Jumbotron title="Hello World"/>
         
         {/* <pre>
             {JSON.stringify(radio, null, 4)}

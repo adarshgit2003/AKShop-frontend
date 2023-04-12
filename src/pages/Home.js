@@ -59,7 +59,7 @@ export default function Home() {
 
     return (
         <div> 
-            <Jumbotron title="Hello world" subTitle="Welcome to React E-Commerce"/> 
+            <Jumbotron title="Hello world"/> 
 
             <div className="row">
                 <div className="col-md-6">
